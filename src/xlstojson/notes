@@ -1,0 +1,28 @@
+// http://svn.apache.org/repos/asf/poi/trunk/src/examples/src/org/apache/poi/ss/examples/ToCSV.java
+
+//Mooc.fi pt II week 9 # 47 - reading a file
+//http://mooc.cs.helsinki.fi/programming-part2/material/week-9?noredirect=1#47
+
+// mooc.fi pt II week 11 # 51 - writing to a file. 
+//http://mooc.cs.helsinki.fi/programming-part2/material/week-11?noredirect=1#51
+
+Busy Developers' Guide to HSSF and XSSF Features
+http://poi.apache.org/spreadsheet/quick-guide.html#NewWorkbook
+
+*** TODO ***
+
+    - convert lat 
+    - convert long
+    - 
+
+    "name" : {
+        "name": "name", 
+        "address" : "address", 
+        "city" : "city", 
+        "state" : "state", 
+        "zipcode" : "zip", 
+        "latitude" : "lat", 
+        "longitude" : "long", 
+        "code" : "code"
+    }
+
